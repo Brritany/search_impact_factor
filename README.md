@@ -1,6 +1,6 @@
 # Search Impact Factor
 
-這個 Python 包提供了查詢 2023 年 Impact Factor 的功能
+這個 Python 包提供了查詢 2023, 2022 年 Impact Factor 的功能
 
 ## Use `pip` to install package
 
@@ -38,4 +38,5 @@ query_result_df.head()
 
 ### Update log
 
-`0.0.1` first edition
+`0.0.11` Add GitHub link, re-do README.md
+`0.0.1`  First edition

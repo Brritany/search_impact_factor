@@ -1,3 +1,7 @@
+![PyPI - License](https://img.shields.io/pypi/l/search-impact-factor)
+![PyPI](https://img.shields.io/pypi/v/search-impact-factor)
+![PyPI - Status](https://img.shields.io/pypi/status/search-impact-factor)
+
 # Search Impact Factor
 
 這個 Python 包提供了查詢 2023, 2022 年 Impact Factor 的功能

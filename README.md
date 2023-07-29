@@ -1,12 +1,15 @@
 ![PyPI - License](https://img.shields.io/pypi/l/search-impact-factor)
 ![PyPI](https://img.shields.io/pypi/v/search-impact-factor)
 ![PyPI - Status](https://img.shields.io/pypi/status/search-impact-factor)
+![PyPI - Download](https://img.shields.io/pypi/dm/search-impact-factor)
 [![Colab](https://img.shields.io/badge/Colab-Example-orange)](https://github.com/Brritany/search_impact_factor/blob/main/example.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Brritany/search_impact_factor/blob/main/example.ipynb)
 
 # Search Impact Factor
 
 這個 Python 包提供了查詢 2023, 2022 年 Impact Factor 的功能
+
+## Use Colab example code to realize search impact factor
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Brritany/search_impact_factor/blob/main/example.ipynb)
 
 ## Use `pip` to install package
 

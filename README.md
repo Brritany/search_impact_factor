@@ -2,6 +2,7 @@
 ![PyPI](https://img.shields.io/pypi/v/search-impact-factor)
 ![PyPI - Status](https://img.shields.io/pypi/status/search-impact-factor)
 ![PyPI - Download](https://img.shields.io/pypi/dm/search-impact-factor)
+![PyPI - Download](https://img.shields.io/pypi/dt/search-impact-factor)
 [![Colab](https://img.shields.io/badge/Colab-Example-orange)](https://github.com/Brritany/search_impact_factor/blob/main/example.ipynb)
 
 # Search Impact Factor

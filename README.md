@@ -6,7 +6,7 @@
 ![PyPI - Implementation](https://img.shields.io/pypi/implementation/search-impact-factor)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/search-impact-factor)
 [![Downloads](https://static.pepy.tech/badge/search-impact-factor)](https://pepy.tech/project/search-impact-factor)
-
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Brritany/search_impact_factor/Pylint)
 [![Colab](https://img.shields.io/badge/Colab-Example-orange)](https://github.com/Brritany/search_impact_factor/blob/main/example.ipynb)
 
 # Search Impact Factor
